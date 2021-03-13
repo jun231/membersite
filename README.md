@@ -5,24 +5,24 @@ Inquiry Features included<br>
 
 <h1>Demo</h1>
 https://forum.addisteria.com
-(Japanese Site)
+(Japanese Site 日本語サイト)
 
-*Some features as belows are not included:<br>
+*Some features as below are not included:<br>
    admin role<br>
-   prodifle edit<br>
+   profile edit<br>
    policy & gate<br>
    
 <h1>Fearures</h1>
 
 Created with basic Laravel features.<br>
 Users can :<br>
--post, show, edit, delet posts<br>
+-post, show, edit, delete posts<br>（Japanese Article）
 -add comments to others posts<br>
 -display all the posts list, also their own posts list, the posts that they add comments<br>
--send inqruiy to admin<br>
+-send inquiry to admin, then email will be sent to the admin<br>
 
 <h1>Requirements</h1>
-Laravel 8.0+<br>
+Environment for Laravel 8.0+<br>
 Database Tables<br>
 
 <h1>Installation</h1>
